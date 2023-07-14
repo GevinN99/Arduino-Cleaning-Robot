@@ -54,3 +54,13 @@ Adjust the delay times and control logic in the code to fine-tune the robot's mo
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please create a pull request with your changes.
 
 
+
+![image](https://github.com/GevinN99/Arduino-Cleaning-Robot/assets/74089748/301d9f9e-2f2d-4c4f-b052-8a3b41f4f31b)
+
+
+![image](https://github.com/GevinN99/Arduino-Cleaning-Robot/assets/74089748/26cee592-60e6-440d-93d3-3134b93feca8)
+
+
+![image](https://github.com/GevinN99/Arduino-Cleaning-Robot/assets/74089748/857049e1-6af4-408c-81ac-9a199a5229ca)
+
+
